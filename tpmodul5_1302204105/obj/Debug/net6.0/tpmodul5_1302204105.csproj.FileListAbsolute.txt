@@ -13,3 +13,5 @@ C:\Users\orval\Documents\Kuliah\KPL\tpmodul5_1302204105\tpmodul5_1302204105\obj\
 C:\Users\orval\Documents\Kuliah\KPL\tpmodul5_1302204105\tpmodul5_1302204105\obj\Debug\net6.0\tpmodul5_1302204105.pdb
 C:\Users\orval\Documents\Kuliah\KPL\tpmodul5_1302204105\tpmodul5_1302204105\obj\Debug\net6.0\tpmodul5_1302204105.genruntimeconfig.cache
 C:\Users\orval\Documents\Kuliah\KPL\tpmodul5_1302204105\tpmodul5_1302204105\obj\Debug\net6.0\ref\tpmodul5_1302204105.dll
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul5_1302204105\tpmodul5_1302204105\obj\Debug\net6.0\tpmodul5_1302204105.Properties.Resources.resources
+C:\Users\orval\Documents\Kuliah\KPL\tpmodul5_1302204105\tpmodul5_1302204105\obj\Debug\net6.0\tpmodul5_1302204105.csproj.GenerateResource.cache

@@ -10,9 +10,19 @@ namespace tpmodul5_1302204105
     {
         public static void Main()
         {
-            SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract – Orvala");
-            video.IncreasePlayCount(50);
-            video.PrintVideoDetails();
+            try
+            {
+                SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract – Orvala");
+                video.IncreasePlayCount(20);
+                video.PrintVideoDetails();
+                
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            
+
         }
     }
 }
